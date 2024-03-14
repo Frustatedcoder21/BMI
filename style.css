@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+}
+h2{
+    text-align: center;
+    color: wheat;
+}
+.form{
+    margin: 50px auto;
+    border: 2px solid whitesmoke;
+    max-width: 400px;
+}
+.Weightinput{
+    margin: 10px 10px;
+}
+.Weightinput p{
+    font-size: 20px;
+    font-weight: bolder;
+    color: wheat;
+}
+.Weightinput p input{
+    border-radius: 5px;
+}
+.Heightinput{
+    margin: 10px 10px;
+}
+.Heightinput p{
+    font-size: 20px;
+    font-weight: bolder;
+    color: wheat;
+}
+.Heightinput p input{
+    border-radius: 5px;
+}
+.result{
+    margin: 10px 50px
+}
+.result p{
+        font-size: 20px;
+        font-weight: bolder;
+        color: wheat;
+    }
+.result p input{
+    border-radius: 5px;
+}
+.getresult{
+    margin-left: 150px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+
+
